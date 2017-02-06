@@ -6,7 +6,7 @@ token = '323650569:AAH0miXDpgJJQoFOJ9Mr2HQ8QMLP281Iq1w'
 def search_from_file(tag)
   result = []
   @jokes.each do |row|
-    result << row if row['tags'] =~ Regexp.new(tag)
+    result << row if row['tags'].downcase =~ Regexp.new(tag.downcase)
   end
   result
 end
