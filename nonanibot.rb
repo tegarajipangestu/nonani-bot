@@ -5,6 +5,7 @@ token = '323650569:AAH0miXDpgJJQoFOJ9Mr2HQ8QMLP281Iq1w'
 
 def search_from_file(tag)
   result = []
+  return @jokes if tag == 'wololo' || tag == 'random'
   @jokes.each do |row|
     result << row if row['tags'].downcase =~ Regexp.new(tag.downcase)
   end
@@ -28,7 +29,7 @@ Telegram::Bot::Client.run(token) do |bot|
   bot.listen do |message|
     jokes = search_from_file(message.text)
     unless jokes.empty?
-      n = rand(0..jokes.size)
+      n = rand(0..jokes.size-1)
       bot.api.send_message(chat_id: message.chat.id, text: jokes[n]['pun'].to_s)
     end
   end
