@@ -1,7 +1,7 @@
-# wtf-bot
-Wtf with dis bot
+# nonani-bot
+A bot which brings you an old jokes 
 
-## Run dis locally
+## Run this locally
 
 ```
 gem install bundler
@@ -11,7 +11,8 @@ gem install bundler
 ruby nonanibot.rb
 ```
 
-Or check it out at telegram.me/jokesbapakbapak_bot
+Or check it out at [This Telegram Bot](https://telegram.me/jokesbapakbapak_bot)
 
 ## Credits
+Inspired by [@tedkesgar](https://github.com/tkesgar)
 See attributions at [this](nonanibot-db - jokebapakbapak.csv)
