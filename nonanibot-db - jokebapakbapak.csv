@@ -1,505 +1,665 @@
-pun,tags,attribution
-"Aktor yg suka ngaji di majlis ilmu
+id,pun,tags,attribution
+1,"Ace Combat crossover Transformers
+
+Ace Combat X: Skies of Decepticon",game,
+2,"Aktor Indonesia yang gendut
+
+Joe Takslim",aktor,
+3,"Aktor kakak perempuan yang jadi musuh Batman
+
+Liam Nee-san","kakak, aktor, batman",
+4,"Aktor yang bisa melucu
+
+Joke Taslim",aktor,nadya.christa
+5,"Aktor yg suka ngaji di majlis ilmu
 
 Joe Ta'lim",aktor,akhfi.therainviewer
-"Pokemon yang dibesarkan oleh keluarga sultan
+6,"Anak Presiden AS yang dipertanyakan
 
-Grow-elite",pokemon,dragseal
-"Pokemon yang punya perusahaan alat2 kamar mandi
+Ivankah? Trump","amerika
+",
+7,"Anggota The Survey Corps yang membawakan acara dangdut
 
-Toto-dile",pokemon,dragseal
-"Wisata kuliner yang membuat perempuan histeris
+Miharja Ackermann
 
-Kyaa Kyaa Kembang Jepun~
-",kuliner,ezra.h.nathanael
-"Negara yang tidak suka melucu?
+""APPAAN TUUH!""","anime, manga",
+8,"Anime tentang figure skater yang baik hati
 
-Papua No Guyona",negara,faiz.ilham
-"Negara yang pernah masuk iklan minyak kayu putih?
+Yurio Nice","anime, ice skating",
+9,"Band Indonesia yang gak pernah ngeluarin album
+
+Blue Band","musik
+",rankgy.d.rezpector
+10,"Band musik yang suka main card game
+
+Yovie & Uno",musik,
+11,"Band yang suka bikin plesetan
+
+Peterpun",musik,
+12,"Bank Indonesia yang bikin serial anime
+
+Danamonogatari",anime,
+13,"Brigadir polisi Indonesia imigran dari Afrika
+
+Norman Kamerun","artis, musik",
+14,"Buah yang bikin visual novel
+
+Buah Na-Ga",VN,
+15,"Buku tentang ideologi kucing dan rencana menguasai Jerman
+
+Meong Kampf","kucing, nazi",
+16,"Bumbu masakan yang disukai perakit robot-robotan
+
+Monosodium Gundamate","kuliner, robot",
+17,"Bunga yang cepat marah
+
+Angryek",bunga,
+18,"Calon gubernur yang baik hati
+
+A Nice Baswedan",politik,
+19,"Calon gubernur yang bertangan dingin
+
+An Ice Baswedan",politik,
+20,"Cerita karangan Mark Twain tentang pedangdut keliling
+
+Tom Sawer","penulis, dangdut",
+21,"Dari pewarta jadi pedangdut
+
+Ayu Tintin","berita, dangdut",
+22,"Dating sim tapi heroinenya digacha
+
+Amagami SSR","gacha, VN, galge
+",
+23,"Dokter bedah yang nyanyi lagu anak-anak
+
+Tompi Saya Bundar","musik, dokter",
+24,"Duet idol Jepang yang ikut F1
+
+McLariS","musik, F1",
+25,"Film anime tentang android unggas
+
+Eve no Chicken
+","film, anime, ayam",
+26,"Film tentang bertahan melawan zombie di dalam gubuk kecil
+
+Saung of the Dead","film, zombie",
+27,"Film tentang blokir Internet di Indonesia
+
+Kimi no Nawala","F1, anime",
+28,"Film tentang kebangkitan orang-orang tak beruntung
+
+Rise of the Planet of the Apes",film,
+29,"Film tentang pembalap F1 yang bertukar badan
+
+Kimi rai Konnen","F1, film, anime",
+30,"Film tentang pencetus komunis ngamuk
+
+Mad Marx",film,
+31,"Film tentang sendirian jadi dokter unggas
+
+Ayam Legend
+","film, ayam",
+32,"FOTUS
+
+Food of the United States
+
+McDonald Trump","makanan, amerika",
+33,"Grup musik Jepang yang suka bikin mobile games?
+
+Supercell","musik, game",faiz.ilham
+34,"Grup musik Jepang yang suka dipakai bersih-bersih
+
+Superpell",musik,tahtaa
+35,"Grup musik Jepang yang suka jualan
+
+Supersell",musik,
+36,"Habis makan jadi?
+
+Kenya",negara,signore.farid
+37,"Ikan yang dapat penghargaan
+
+Ikan Grammy","ikan, musik",
+38,"Ikan yang jago nyanyi
+
+Ikan Fawzi","ikan, musik",
+39,"Kakak perempuan yang bikin film kartun
+
+Walt Dis-nee","kakak, film, disney",
+40,"Kaliber peluru buatan ITB
+
+.50 Bumi Medika Ganesha","militer, ITB",
+41,"Kamen Rider yang populer tahun 90-an
+
+Kamen Rider Bagito","tokusatsu, pelawak",
+42,"Karakter gadis kucing di Harry Potter
+
+Hermeong","kucing, harry potter",
+43,"Kartun Amerika yang menampilkan orang Batak
+
+Beavis and Butet","kartun, batak
+",
+44,"Kendaraan tempat lahirnya Zeus
+
+Kreta
+","yunani
+",
+45,"Kerajaan yang lapar dan haus?
+
+Haustria-Hungry
+",negara,michaelaw320
+46,"Ketua parpol yang bertenaga
+
+Megawatt Soekarnoputri
+","partai, politik",
+47,"Ketua parpol yang suka iseng
+
+Usil Lo Bambang Yudhoyono
+","partai, politik",
+48,"Komik Jepang tentang harem anak sekolah tapi ceritanya bagus
+
+Nicekoi
+","anime, manga, jejepangan",
+49,"Komik super shonen yang cetar membahana
+
+Fist of North Cetar","manga, jejepangan
+",
+50,"Komik tentang pria yang sekali membuat plesetan orang langsung kalah
+
+One Pun Man
+","manga, jejepangan
+",
+51,"Komikus Indonesia yang jago bikin cerita yang manis
+
+Annisa Nisfihoney",komik,
+52,"Komikus Indonesia yang kece badai
+
+Katrina Rakhmavika","badai, komik",
+53,"Kota di Inggris yang tidak ada apa-apanya
+
+Nothingham","inggris, kota",
+54,"Kota yang berbahaya
+
+Surabahaya",kota,
+55,"Kota yang ikut menjadi calon gubernur
+
+San Diego Uno","politik, kota",
+56,"Kota yang memberitahu bahaya ikan hiu
+
+Sura Bahaya","kota, jawa",
+57,"Kota yang sulit
+
+Los Angel es","kota, jawa",
+58,"Lagu jadul yang imut-imut
+
+Comelia, oleh Ebiet G. Adek",musik,
+59,Macross b² − 4ac,"matematika, anime",
+60,"Makanan yang dibenci pemain game gacha
+
+Kentang GoRNG
+","gacha, game",
+61,"Mantan ketua KPK yang suka menyuruh orang minta maaf
+
+Anta Sorry","politik
+",
+62,"Mantan musisi Indonesia yang selalu tampak rapi
+
+Ahmad Dandy",musik,
+63,"Mantan pembalap F1 yang jago main gitar
+
+Aryton Sennar
+","F1, musik",tirta.rachman
+64,"Mantan pembalap F1 yang jago main piano
+
+Olivier Pianis","F1, musik",
+65,"Mantan petinju yang suka menakut-nakuti
+
+Oscar de la Hayoo",tinju,
+66,"Mantan presiden yang banting setir jadi kiper Inggris
+
+Joe Harto","politik, sepakbola",
+67,"Mantan wakil presiden yang punya hati
+
+Muhammad Hearta","presiden, politik",
+68,"Mantan wakil presiden yang selalu mencoba
+
+Try Sutrisno","presiden, politik",
+69,"Medalis IOI asal Indonesia yang sering kecewa
+
+Irvan Yah, Ya....",programmer,
+70,"Mengapa awal kemerdekaan Indonesia susah?
+
+Karena presidennya Sukarno.
+
+Coba kalau presidennya Mudahno.","presiden, politik",
+71,"Mengapa Clannad ceritanya haru?
+
+Karena tokoh utamanya Nangisa Furukawa","anime, VN",
+72,Mighty Morphine Power Rangers,"tokusatsu, power rangers",
+73,"Mobil di Harry Potter yang tidak bisa dimaling
+
+Ron Car","harry potter
+",
+74,"Musisi Indonesia yang geraknya lambat
+
+Melly Goslow",musik,
+75,"Nama tempe asli Yunani
+
+Tempe Minoan
+",yunani,
+76,"Negara bagian AS yang wibu
+
+Ohayo","amerika, jejepangan",
+77,"Negara yang kebanyakan air?
+
+Airlandia",negara,faiz.ilham
+78,"Negara yang membutuhkan air
+
+Haustria",negara,
+79,"Negara yang pede?
+
+Guinea Bisa!","negara
+",raka.p
+80,"Negara yang pernah masuk iklan minyak kayu putih?
 
 Cuba
 
 ""buat anak kok cuba-cuba""","negara
 ",faiz.ilham
-"Negara yang kebanyakan air?
+81,"Negara yang rela di-PHP-in
 
-Airlandia",negara,faiz.ilham
-"Grup musik Jepang yang suka bikin mobile games?
-
-Supercell","musik, game",faiz.ilham
-"Penyanyi Indonesia yang ingin melepas masa lajang
-
-Agnes Maunikah","musik
-",gungsut
-"Pebalap F1 yang main instrumen musik
-
-Rubens Barri-cello","F1, musik",kurioruu
-"Penyanyi wanita penyuka lelucon internet
-
-Memes","musik, meme",mcatrane
-"Kerajaan yang lapar dan haus?
-
-Haustria-Hungry
-",negara,michaelaw320
-"Aktor yang bisa melucu
-
-Joke Taslim",aktor,nadya.christa
-"Negara yang pede?
-
-Guinea Bisa!","negara
-",raka.p
-"Band Indonesia yang gak pernah ngeluarin album
-
-Blue Band","musik
-",rankgy.d.rezpector
-"Negara yang sakit kulit
+Kuwait","negara, cinta",
+82,"Negara yang sakit kulit
 
 Vanuantu",negara,signore.farid
-"Negara yang selalu menyalahkan diri sendiri?
+83,"Negara yang selalu menyalahkan diri sendiri?
 
 Parahguay",negara,signore.farid
-"Habis makan jadi?
+84,"Negara yang sering diucapkan sebelum berangkat kerja
 
-Kenya",negara,signore.farid
-"Pokemon yang ga langsing?
+Haiti-Haiti di Jalan",negara,
+85,"Negara yang suka melucu
 
-Geondude",pokemon,signore.farid
-"Grup musik Jepang yang suka dipakai bersih-bersih
+Guyona",negara,
+86,"Negara yang tidak suka melucu?
 
-Superpell",musik,tahtaa
-"Mantan pembalap F1 yang jago main gitar
+Papua No Guyona",negara,faiz.ilham
+87,"PaaS
 
-Aryton Sennar
-","F1, musik",tirta.rachman
-"Pembalap F1 yang sering menyendiri
+Pun as a Service
+",programmer,
+88,"Pahlawan asal Jepang
 
-Fernando Alone So",F1,tirta.rachman
-"Makanan yang dibenci pemain game gacha
+Herohito","jejepangan, pahlawan",
+89,"Pebalap F1 yang main instrumen musik
 
-Kentang GoRNG
-","gacha, game",
-"Nama tempe asli Yunani
-
-Tempe Minoan
-",yunani,
-"Kendaraan tempat lahirnya Zeus
-
-Kreta
-","yunani
-",
-"Film anime tentang android unggas
-
-Eve no Chicken
-","film, anime, ayam",
-"Serial anime tentang detektif unggas
-
-Kindaichi Shounen no Chicken
-","serial, anime, manga, ayam
-",
-"Film tentang sendirian jadi dokter unggas
-
-Ayam Legend
-","film, ayam",
-"Ace Combat crossover Transformers
-
-Ace Combat X: Skies of Decepticon",game,
-"Video game yang tidak yakin
-
-Ace Combat 5: The Unsure War",game,
-"Kakak perempuan yang bikin film kartun
-
-Walt Dis-nee","kakak, film, disney",
-"Aktor kakak perempuan yang jadi musuh Batman
-
-Liam Nee-san","kakak, aktor, batman",
-"Ketua parpol yang suka iseng
-
-Usil Lo Bambang Yudhoyono
-","partai, politik",
-"Ketua parpol yang bertenaga
-
-Megawatt Soekarnoputri
-","partai, politik",
-"Pelari yang nilainya cuma bisa dua
+Rubens Barri-cello","F1, musik",kurioruu
+90,"Pelari yang nilainya cuma bisa dua
 
 Usain Bool
 ","atlet, programmer
 ",
-"Bunga yang cepat marah
+91,"Pemain sepakbola yang berniat yakin tapi ternyata prokrastinasi
 
-Angryek",bunga,
-"Dari pewarta jadi pedangdut
+Hakan Yakin",sepakbola,
+92,"Pembalap F1 asal Jawa
 
-Ayu Tintin","berita, dangdut",
-"Penulis buku yang santai
+Jenson Mboten
+","F1, jawa",
+93,"Pembalap F1 yang berasal dari Minang
+
+Niki La Uda","F1
+",
+94,"Pembalap F1 yang sering ikutan demo
+
+Felipe Massa
+",F1,
+95,"Pembalap F1 yang sering menyendiri
+
+Fernando Alone So",F1,tirta.rachman
+96,"Pembalap Indonesia yang selalu bergegas cepat
+
+Rio Hurryanto",F1,
+97,"Pembuat anime tentang klub band musik SMA tapi ternyata lagu yang mereka nyanyikan dapat mempengaruhi kondisi psikologis seseorang
+
+Satoshi K-On!","anime
+",
+98,"Penulis buku yang santai
 
 George Ohwell ¯\_(ツ)_/¯
 ","penulis, buku
 ",
-"Perusahaan elektronik yang nasibnya tragis
-
-Hitachi Uchiha","anime, manga, naruto
-",
-"Dokter bedah yang nyanyi lagu anak-anak
-
-Tompi Saya Bundar","musik, dokter",
-"Musisi Indonesia yang geraknya lambat
-
-Melly Goslow",musik,
-"Mantan musisi Indonesia yang selalu tampak rapi
-
-Ahmad Dandy",musik,
-"Kota di Inggris yang tidak ada apa-apanya
-
-Nothingham","inggris, kota",
-"Negara bagian AS yang wibu
-
-Ohayo","amerika, jejepangan",
-"Anak Presiden AS yang dipertanyakan
-
-Ivankah? Trump","amerika
-",
-"Negara yang suka melucu
-
-Guyona",negara,
-"Negara yang rela di-PHP-in
-
-Kuwait","negara, cinta",
-"Mengapa Clannad ceritanya haru?
-
-Karena tokoh utamanya Nangisa Furukawa","anime, VN",
-"Negara yang sering diucapkan sebelum berangkat kerja
-
-Haiti-Haiti di Jalan",negara,
-"Negara yang membutuhkan air
-
-Haustria",negara,
-"Dating sim tapi heroinenya digacha
-
-Amagami SSR","gacha, VN, galge
-",
-"Bank Indonesia yang bikin serial anime
-
-Danamonogatari",anime,
-"FOTUS
-
-Food of the United States
-
-McDonald Trump","makanan, amerika",
-"Lagu jadul yang imut-imut
-
-Comelia, oleh Ebiet G. Adek",musik,
-"Pokemon yang bisa ngelenong Betawi
-
-Charmandra",pokemon,
-"Stasiun televisi yang jadi satuan internasional
-
-Meter TV",TV,
-"Pembalap Indonesia yang selalu bergegas cepat
-
-Rio Hurryanto",F1,
-"Visual novel tentang kisah Tommy Soeharto setelah bebas dari penjara
-
-Tommy After ～It's a Wonderful Life～",VN,
-"Penyair yang mampu memberikan jawaban
+99,"Penyair yang mampu memberikan jawaban
 
 Chairil Answer",penyair,
-"Buah yang bikin visual novel
+100,"Penyanyi Indonesia yang ingin melepas masa lajang
 
-Buah Na-Ga",VN,
-"Pesepakbola yang pernah muncul di anime shojo
+Agnes Maunikah","musik
+",gungsut
+101,"Penyanyi Indonesia yang punya klub sepakbola
 
-Firman Utena","anime, sepakbola",
-"Penyanyi yang dicari pas main DotA
+Agnes Munich","sepakbola, musik",
+102,"Penyanyi Jepang yang suaranya bikin kecanduan
+
+Nagih Yahnagih","musik, jejepangan",
+103,"Penyanyi wanita penyuka lelucon internet
+
+Memes","musik, meme",mcatrane
+104,"Penyanyi yang dicari pas main DotA
 
 Rune Harune","DotA, musik
 ",
-"Anime tentang figure skater yang baik hati
-
-Yurio Nice","anime, ice skating",
-"Striker Inggris yang bikin badai gol
-
-Hurri Cane","sepakbola, badai",
-"Komikus Indonesia yang kece badai
-
-Katrina Rakhmavika","badai, komik",
-"Pahlawan asal Jepang
-
-Herohito","jejepangan, pahlawan",
-"Serial anime tentang kucing pengembara.
-
-Kino no Tabby","kucing, anime, novel",
-"Penyanyi Jepang yang suaranya bikin kecanduan
-
-Nagih Yahnagih","musik, jejepangan",
-"Pembuat anime tentang klub band musik SMA tapi ternyata lagu yang mereka nyanyikan dapat mempengaruhi kondisi psikologis seseorang
-
-Satoshi K-On!","anime
-",
-"Mobil di Harry Potter yang tidak bisa dimaling
-
-Ron Car","harry potter
-",
-"Perdana Menteri Inggris yang mantan guru
-
-Margaret Teacher",inggris,
-"Voice actor yang dipakai main voli
-
-Mikasa Youko",seiyuu,
-"Voice actor yang suka minta maaf
-
-Sorry Hayami",seiyuu,
-"Selat yang banyak tumbuhan karnivora
-
-Selat Sundew","botani
-",
-"Penyanyi yang namanya diabadikan sebagai teknik menggambar
+105,"Penyanyi yang namanya diabadikan sebagai teknik menggambar
 
 Perspektif Dua Titiek",musik,
-"Penyanyi Indonesia yang punya klub sepakbola
+106,"Penyanyi yang suka makan kulit buah manggis
 
-Agnes Munich","sepakbola, musik",
-"Karakter gadis kucing di Harry Potter
+Ricky Mastin",musik,
+107,"Perdana Menteri Inggris yang mantan guru
 
-Hermeong","kucing, harry potter",
-"Komikus Indonesia yang jago bikin cerita yang manis
+Margaret Teacher",inggris,
+108,"Perpindahan penduduk perdesaan ke perkotaan yang menyebabkan naiknya tingkat stres dan berujung pada penuaan dini
 
-Annisa Nisfihoney",komik,
-"Cerita karangan Mark Twain tentang pedangdut keliling
+Ubanisasi","planologi, insinyur",aster.riesling
+109,"Persona crossover Pokemon
 
-Tom Sawer","penulis, dangdut",
-"Webtoon khilaf tapi translate bahasa Jawa
+Persona 4 Goldeen","anime, game, pokemon",
+110,"Perusahaan elektronik yang nasibnya tragis
 
-GUSTI'S COMIC",komik,
-"Duet idol Jepang yang ikut F1
+Hitachi Uchiha","anime, manga, naruto
+",
+111,"Pesepakbola yang pernah muncul di anime shojo
 
-McLariS","musik, F1",
-"Pokemon yang bisa dipakai ujian
+Firman Utena","anime, sepakbola",
+112,"Pesepakbola yang suka makan kulit buah manggis
+
+Lionel Mastin",sepakbola,
+113,"Pokemon yang bentuknya anjing asal Jerman
+
+Arcanein",pokemon,
+114,"Pokemon yang bisa dipakai ujian
 
 Pinsir 2B",pokemon,
-"Pokemon yang jadi meme
+115,"Pokemon yang bisa ngelenong Betawi
+
+Charmandra",pokemon,
+116,"Pokemon yang dibesarkan oleh keluarga sultan
+
+Grow-elite",pokemon,dragseal
+117,"Pokemon yang ga langsing?
+
+Geondude",pokemon,signore.farid
+118,"Pokemon yang jadi meme
 
 Om Venonet Om","pokemon
 ",
-"Pokemon yang malu-malu
-
-Charminder",pokemon,
-"Pokemon yang kalau dimakan rasanya asem
+119,"Pokemon yang kalau dimakan rasanya asem
 
 Bulbasour",pokemon,
-"Pokemon yang bentuknya anjing asal Jerman
+120,"Pokemon yang malu-malu
 
-Arcanein",pokemon,
-"Buku tentang ideologi kucing dan rencana menguasai Jerman
+Charminder",pokemon,
+121,"Pokemon yang punya perusahaan alat2 kamar mandi
 
-Meong Kampf","kucing, nazi",
-"Ikan yang jago nyanyi
-
-Ikan Fawzi","ikan, musik",
-"Ikan yang dapat penghargaan
-
-Ikan Grammy","ikan, musik",
-"Aktor Indonesia yang gendut
-
-Joe Takslim",aktor,
-"Band musik yang suka main card game
-
-Yovie & Uno",musik,
-"Presiden kedua Republik Indonesia
+Toto-dile",pokemon,dragseal
+122,"Presiden kedua Republik Indonesia
 
 Soehartwo",presiden,
-"Wisata kuliner di Sentul yang banyak plesetan
-
-Pasar Ah Pun",kuliner,
-"Band yang suka bikin plesetan
-
-Peterpun",musik,
-"Striker Jerman yang suka main dekat
-
-Miroslav Close",sepakbola,
-"Calon gubernur yang bertangan dingin
-
-An Ice Baswedan",politik,
-"Calon gubernur yang baik hati
-
-A Nice Baswedan",politik,
-"Serial anime yang ceritanya bagus
-
-Nicemonogatari","anime, novel
-",
-"serial anime yang biasa dipakai di linux
-
-guilty chown","anime, linux",
-"Grup musik Jepang yang suka jualan
-
-Supersell",musik,
-"Seiyuu yang suka berandai-andai
-
-Kana Asumsi",seiyuu,
-"Seiyuu yang mahal
+123,"Seiyuu yang mahal
 
 Yukari Takmurah",seiyuu,
-"Film tentang kebangkitan orang-orang tak beruntung
+124,"Seiyuu yang suka berandai-andai
 
-Rise of the Planet of the Apes",film,
-"Mantan pembalap F1 yang jago main piano
+Kana Asumsi",seiyuu,
+125,"Selat yang banyak tumbuhan karnivora
 
-Olivier Pianis","F1, musik",
-"Pembalap F1 yang sering ikutan demo
-
-Felipe Massa
-",F1,
-"Pembalap F1 asal Jawa
-
-Jenson Mboten
-","F1, jawa",
-"Film tentang bertahan melawan zombie di dalam gubuk kecil
-
-Saung of the Dead","film, zombie",
-"Serial anime tentang mahou shoujo dari Bali
-
-Princess Betutu","anime, kuliner",
-"Kamen Rider yang populer tahun 90-an
-
-Kamen Rider Bagito","tokusatsu, pelawak",
-"Serial anime tentang kucing naik robot
-
-Meong Genesis Evangelion","kucing, anime",
-"Pembalap F1 yang berasal dari Minang
-
-Niki La Uda","F1
+Selat Sundew","botani
 ",
-"Film tentang pencetus komunis ngamuk
+126,"Serial anime robot-robotan tentang kegalauan orang Indonesia
 
-Mad Marx",film,
-"Serial anime tentang anak-anak SMA lulus 2 tahun
+Budi Complex","anime, robot",
+127,"Serial anime tentang anak-anak SMA lulus 2 tahun
 
 Aksel World","anime, LN",
-"Serial anime tentang tukang roti
+128,"Serial anime tentang bincang-bincang tengah malam
 
-Bakerymonogatari","anime, LN",
-"Film tentang pembalap F1 yang bertukar badan
+Letterman Night",anime,
+129,"Serial anime tentang detektif unggas
 
-Kimi rai Konnen","F1, film, anime",
-"Film tentang blokir Internet di Indonesia
-
-Kimi no Nawala","F1, anime",
-"Pemain sepakbola yang berniat yakin tapi ternyata prokrastinasi
-
-Hakan Yakin",sepakbola,
-"Kota yang ikut menjadi calon gubernur
-
-San Diego Uno","politik, kota",
-"Kota yang sulit
-
-Los Angel es","kota, jawa",
-"Kartun Amerika yang menampilkan orang Batak
-
-Beavis and Butet","kartun, batak
+Kindaichi Shounen no Chicken
+","serial, anime, manga, ayam
 ",
-"Kota yang berbahaya
-
-Surabahaya",kota,
-"Kota yang memberitahu bahaya ikan hiu
-
-Sura Bahaya","kota, jawa",
-"Mengapa awal kemerdekaan Indonesia susah?
-
-Karena presidennya Sukarno.
-
-Coba kalau presidennya Mudahno.","presiden, politik",
-"Mantan wakil presiden yang punya hati
-
-Muhammad Hearta","presiden, politik",
-"Mantan wakil presiden yang selalu mencoba
-
-Try Sutrisno","presiden, politik",
-"Mantan ketua KPK yang suka menyuruh orang minta maaf
-
-Anta Sorry","politik
-",
-"Medalis IOI asal Indonesia yang sering kecewa
-
-Irvan Yah, Ya....",programmer,
-"Serial anime yang ditonton lulusan Teknik Elektro
-
-Flip Floppers","programmer, insinyur, anime",
-"Bumbu masakan yang disukai perakit robot-robotan
-
-Monosodium Gundamate","kuliner, robot",
-Macross b² − 4ac,"matematika, anime",
-"Perpindahan penduduk perdesaan ke perkotaan yang menyebabkan naiknya tingkat stres dan berujung pada penuaan dini
-
-Ubanisasi","planologi, insinyur",aster.riesling
-"PaaS
-
-Pun as a Service
-",programmer,
-"Komik super shonen yang cetar membahana
-
-Fist of North Cetar","manga, jejepangan
-",
-"Komik tentang pria yang sekali membuat plesetan orang langsung kalah
-
-One Pun Man
-","manga, jejepangan
-",
-"Serial anime yang judulnya dibedakan khusus di Tiongkok
-
-Subete ga F ni Naru
-
-Versi Tiongkok judulnya jadi Subete ga A ni Naru","anime, tiongkok",
-"Serial anime tentang kelompok pahlawan yang suka mobile game
+130,"Serial anime tentang kelompok pahlawan yang suka mobile game
 
 Gachaman Crowds","anime, gacha",
-"Komik Jepang tentang harem anak sekolah tapi ceritanya bagus
-
-Nicekoi
-","anime, manga, jejepangan",
-Mighty Morphine Power Rangers,"tokusatsu, power rangers",
-"Serial tentang lima pahlawan warna-warni yang cepat marah
-
-Power Angers","tokusatsu, power rangers",
-"Serial anime tentang kematian tapi berbahaya
+131,"Serial anime tentang kematian tapi berbahaya
 
 Death Parahdeh
 ","anime
 ",
-"Serial anime tentang bincang-bincang tengah malam
+132,"Serial anime tentang kucing naik robot
 
-Letterman Night",anime,
-"Serial anime tentang taman bermain yang membuat kecanduan
+Meong Genesis Evangelion","kucing, anime",
+133,"Serial anime tentang kucing pengembara.
+
+Kino no Tabby","kucing, anime, novel",
+134,"Serial anime tentang mahou shoujo dari Bali
+
+Princess Betutu","anime, kuliner",
+135,"Serial anime tentang taman bermain yang membuat kecanduan
 
 Ahnagih Brilliant Park","anime, LN",
-"Serial anime robot-robotan tentang kegalauan orang Indonesia
+136,"Serial anime tentang tukang roti
 
-Budi Complex","anime, robot",
-"Persona crossover Pokemon
+Bakerymonogatari","anime, LN",
+137,"Serial anime yang biasa dipakai di linux
 
-Persona 4 Goldeen","anime, game, pokemon",
-"Mantan petinju yang suka menakut-nakuti
+guilty chown","anime, linux",
+138,"Serial anime yang ceritanya bagus
 
-Oscar de la Hayoo",tinju,
-"Studio game Indonesia yang dipakai membasmi DBD
+Nicemonogatari","anime, novel
+",
+139,"Serial anime yang ditonton lulusan Teknik Elektro
+
+Flip Floppers","programmer, insinyur, anime",
+140,"Serial anime yang judulnya dibedakan khusus di Tiongkok
+
+Subete ga F ni Naru
+
+Versi Tiongkok judulnya jadi Subete ga A ni Naru","anime, tiongkok",
+141,"Serial tentang lima pahlawan warna-warni yang cepat marah
+
+Power Angers","tokusatsu, power rangers",
+142,"Stasiun televisi yang jadi satuan internasional
+
+Meter TV",TV,
+143,"Striker Inggris yang bikin badai gol
+
+Hurri Cane","sepakbola, badai",
+144,"Striker Jerman yang suka main dekat
+
+Miroslav Close",sepakbola,
+145,"Studio game Indonesia yang dipakai membasmi DBD
 
 Abate Studio","game, obat",
-"Anggota The Survey Corps yang membawakan acara dangdut
+146,"Video game yang tidak yakin
 
-Miharja Ackermann
+Ace Combat 5: The Unsure War",game,
+147,"Visual novel tentang kisah Tommy Soeharto setelah bebas dari penjara
 
-""APPAAN TUUH!""","anime, manga",
-"Brigadir polisi Indonesia imigran dari Afrika
+Tommy After ～It's a Wonderful Life～",VN,
+148,"Voice actor yang dipakai main voli
 
-Norman Kamerun","artis, musik",
-"Kaliber peluru buatan ITB
+Mikasa Youko",seiyuu,
+149,"Voice actor yang suka minta maaf
 
-.50 Bumi Medika Ganesha","militer, ITB",
-"Mantan presiden yang banting setir jadi kiper Inggris
+Sorry Hayami",seiyuu,
+150,"Webtoon khilaf tapi translate bahasa Jawa
 
-Joe Harto","politik, sepakbola",
-"Pesepakbola yang suka makan kulit buah manggis
+GUSTI'S COMIC",komik,
+151,"Wisata kuliner di Sentul yang banyak plesetan
 
-Lionel Mastin",sepakbola,
-"Penyanyi yang suka makan kulit buah manggis
+Pasar Ah Pun",kuliner,
+152,"Wisata kuliner yang membuat perempuan histeris
 
-Ricky Mastin",musik,
+Kyaa Kyaa Kembang Jepun~
+",kuliner,ezra.h.nathanael
+153,"Sebutan untuk orang yang menikah dengan iPhone
+
+Nikah Siri","apple, tekno, handphone",
+154,"Teknologi AI yang bisa memberikan pidato singkat saat memulai acara
+
+Sekapur Siri","apple, tekno, handphone
+",faiz.ilham
+155,"Sebenarnya lawan para kapal di Kancolle itu mereka sendiri
+
+Kan Musuh","kancolle, game",
+156,"Pemusik rock yang terang bagaikan lampu
+
+LED Zeppelin","musik, rock",
+157,"Penemu yang suka bertanya
+
+James What",penemu,
+158,"Pemain timnas Indonesia yang ganteng
+
+Handsomu Yama",sepakbola,
+159,"Kota di Jepang yang pusat produksi siomay
+
+Hokkiedo","kuliner, jepang",
+160,"Klub sepakbola yang sering libur
+
+Manchester Cuti",sepakbola,
+161,"Karakter game yang penyihir tapi juga agen rahasia
+
+Solid Snape","harry potter, game",
+162,"Strategi sepakbola yang pakai mantan presiden disuruh di bawah gawang
+
+Parkir Bush","sepakbola, amerika",
+163,"Perusahaan mobil Jepang yang bikin film
+
+Diehardtsu","jepang, film",
+164,"Vokalis band yang bisa melayang di udara
+
+Ariel Peterbang",musik,
+165,"Vokalis yg paling populer saat bulan puasa
+
+Candil Seurieus Band",musik,signore.farid
+166,"Vokalis yang paling bahagia hidupnya
+
+Girang Nidji",musik,"benhardmartin
+"
+167,"Vokalis band yang kalau makan suka buru-buru
+
+Ian Keselak",musik,
+168,"Vokalis band yang spesifik tipe tertentu
+
+Char ly ST12",musik,
+169,"Vokalis band yang pintar
+
+Aksel Rose",musik,iamwahid
+170,"Vokalis band yang suka berenang
+
+Ariel PeterPan",musik,aisyahd
+171,"Vokalis band yang dipakai ngetik
+
+Arial Peterpan",musik,
+173,"Mantan vokalis band yang jadi pemain bola
+
+Andika Vermansyah","musik, sepakbola",
+174,"Kalau Jepang punya kapal perang dibikin moe, Indonesia punya taman hiburan dibikin moe
+
+Ancolle","kancolle, game",
+175,"Mengapa keadilan itu dingin?
+
+Karena Just Ice.","keadilan
+",
+176,"Karakter anime yang suka ngajak orang lain
+
+Yuk! Nagato",anime,
+177,"Film tentang pemilik toko tapi kesal sendiri
+
+Cek Toko Sebel Ah",film,
+178,"Film tentang bos mafia yang jadi bapak teladan
+
+The Goodfather",film,
+179,"Penulis buku yang suka guling-guling
+
+J.K. Rolling",penulis,
+180,"Hakim MK yang pas ditangkap KPK berkata ""it's a trap!""
+
+Patrialis Ackbar","politik
+",
+181,"Kucing yang melatih klub sepakbola
+
+Diego Si Meong","sepakbola, meong",
+182,"Nasi yang berbahaya kalau dimakan
+
+Nasi timbal","kuliner, kimia",
+183,"Batuan yang terbentuk dari air mata lelaki
+
+Batuan sedihmen","geologi
+",
+184,"Pembalap F1 yang bisa membuat makanan sedap
+
+Kimi Royconnen",f1,
+185,"Dari manakah asal superhero?
+
+Dari PNS-PNS yang terkena mutasi.",pekerja,
+186,"Ibunya rapper Indonesia yang jago masak nasi
+
+Young Ma",kuliner,
+187,"Gubernur Jakarta yg bisa dipakai untuk masak ?
+
+A Hock","kuliner, politik",signore.farid
+188,"Fisikawan yang slow but sure
+
+Max Pelank",fisika,
+189,"Fisikawan yang bosan
+
+Niels Bore",fisika,
+190,"Fisikawan yang habis nangis
+
+Isak Newton",fisika,signore.farid
+191,"Fisikawan yang tidak mau memberi suara.
+
+Albert Abstein",fisika,dimas.saputra.75
+192,"Band yang menghancurkan dinding
+
+The Titans","anime, musik",
+193,"Band yang haus
+
+ST 2 gelas","musik
+",signore.farid
+194,"Band yang lama tidak bertemu
+
+Kangen Band",musik,dimas.saputra.75
+195,"Font yang menghancurkan dinding
+
+Trebuchet MS","komputer, anime",faiz.ilham
+196,"Band yang doyan pakai library JavaScript tertentu
+
+Andra and the Backbone.js","musik, programmer
+",
+197,"Karakter komik Indonesia yang jadi seiyuu
+
+Juuki Aoi","seiyuu, komik
+",
+198,"Air minum yang cantik
+
+Haqua","anime, manga
+",
+199,"Girl band Korea yang jago ngoding
+
+I.O.I",korea,
+200,"Peraih Nobel yang bikin app ride-sharing
+
+Robert Uber","tekno
+",
+201,"Negara yang datang dan lari
+
+Comerun",negara,
+202,"Negara yang sudah lari
+
+I Ran",negara,
+203,"Negara yang tiba tiba ada?
+
+Suddan",negara,signore.farid
